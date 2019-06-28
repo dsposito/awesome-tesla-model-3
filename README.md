@@ -9,6 +9,14 @@
    - [General Discussions](https://www.reddit.com/r/teslamotors/)
    - [Software Updates](https://www.reddit.com/r/teslamotors/wiki/softwareupdates)
    - [TeslaCam Videos](https://www.reddit.com/r/TeslaCam/)
+ - YouTube
+   - [Tesla](https://www.youtube.com/user/TeslaMotors)
+   - [The Tech of Tech](https://www.youtube.com/channel/UCB8glGbzdK3S0B06dfmd9rQ/videos)
+   - [Pure Tesla](https://www.youtube.com/channel/UCLvJyRXeb6iWWRv-40Mtwsw/videos)
+   - [i1Tesla](https://www.youtube.com/user/AbsoluteSavannahs/videos)
+   - [DÆrik](https://www.youtube.com/channel/UCA8N_0F-KYXSyT5OSJzSizA/videos)
+   - [DaxM](https://www.youtube.com/user/Bailey4427/videos)
+   - [Andy Slye](https://www.youtube.com/user/MyTechMethods1/videos)
  - [Facebook Model 3 Group](https://www.facebook.com/groups/TeslaMotorsModel3/)
  - [TeslaFi Firmware Tracker](https://teslafi.com/firmware/)
 
