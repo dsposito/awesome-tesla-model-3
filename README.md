@@ -1,5 +1,7 @@
 # Tesla Model 3 - Owner's Guide
 
+A helpful reference list for Model 3 owners.
+
 ## General Information
  - [Official Owner's Manual](https://www.tesla.com/sites/default/files/model_3_owners_manual_north_america_en.pdf)
  - [Official Video Guides](https://www.youtube.com/playlist?list=PLEox0nUMFPF7ZaNZvUa8h65wEBSGtUgmw)
@@ -21,8 +23,9 @@
  - [TeslaFi Firmware Tracker](https://teslafi.com/firmware/)
 
 ## Mods & Accessories
-- [Door Sill Protector](https://amzn.to/2FkilTW)
 - [SanDisk 128GB Flash Drive](https://amzn.to/2KtDIGx) (Sentry Mode Tested)
+- [Window Tinting](https://docs.google.com/document/d/1NWI5AD9Z_oBH0YBOgzLww2ZQPMIUVqltoQ4Zewhb3aI/edit?usp=sharing)
+- [Door Sill Protector](https://amzn.to/2FkilTW)
 - [Center Console Organizer Tray](https://amzn.to/2J2JWu5)
 
 ## Care & Maintenance
