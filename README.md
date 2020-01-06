@@ -23,10 +23,14 @@ A helpful reference list for Model 3 owners.
  - [TeslaFi Firmware Tracker](https://teslafi.com/firmware/)
 
 ## Mods & Accessories
-- [SanDisk 128GB Flash Drive](https://amzn.to/2KtDIGx) (Sentry Mode Tested)
 - [Window Tinting](https://docs.google.com/document/d/1NWI5AD9Z_oBH0YBOgzLww2ZQPMIUVqltoQ4Zewhb3aI/edit?usp=sharing)
 - [Door Sill Protector](https://amzn.to/2FkilTW)
 - [Center Console Organizer Tray](https://amzn.to/2J2JWu5)
+- [All Weather Floor Liners](https://shop.tesla.com/product/model-3-all-weather-floor-liners)
+- [Brighter Trunk Lights](https://www.abstractocean.com/white-single/)
+- [SanDisk 128GB Flash Drive](https://amzn.to/2KtDIGx) (Sentry Mode Tested)
+- [Tire Valve Stem Caps](https://www.amazon.com/gp/product/B075GXJ2RG/)
+- [Hot Wheels Model 3](https://www.amazon.com/gp/product/B07QJ975DB/)
 
 ## Care & Maintenance
 ### Exterior Supplies
