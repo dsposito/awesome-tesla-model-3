@@ -33,16 +33,28 @@ A helpful reference list for Model 3 owners.
 - [Hot Wheels Model 3](https://www.amazon.com/gp/product/B07QJ975DB/)
 
 ## Care & Maintenance
-### Exterior Supplies
- - [Detailing Bucket Kit](https://amzn.to/2KqJngw)
-   - [Bucket](https://amzn.to/31Li0TV)
-   - [Bucket Lid](https://amzn.to/2FngM7M)
-   - [Grit Guard](https://amzn.to/2WWXhOb)
- - [Small Spray Bottle](https://amzn.to/2MYZ7tn)
+### Tools
+- [Headlamp](https://www.amazon.com/dp/B07CV3VTYB/)
+- [Dash Duster](https://www.amazon.com/Relentless-Drive-Ultimate-Dash-Duster/dp/B014GPPHHA/)
+- [Detailing Gloves](https://www.amazon.com/gp/product/B007AO2E94/)
+- [Small Spray Bottle](https://amzn.to/2MYZ7tn)
+- [Detailing Bucket Kit](https://amzn.to/2KqJngw)
+  - [Bucket](https://amzn.to/31Li0TV)
+  - [Bucket Lid](https://amzn.to/2FngM7M)
+  - [Grit Guard](https://amzn.to/2WWXhOb)
+- [Chenille Microfiber Wash Mitt](https://amzn.to/2X2K4DL)
+- [Microfiber Cloths](https://amzn.to/2FngVYS)
+- [Waffle Weave Microfiber Drying Towel](https://amzn.to/2J1QOrm) (Windows)
+- [Woolly Mammoth Microfiber Drying Towel](https://amzn.to/31JsLWZ) (Body Paint)
+- [Tire Brush](https://www.amazon.com/gp/product/B07344643P/)
+- [Tire Dressing Applicator](https://www.amazon.com/gp/product/B005DNJPSC/)
+- [Spudger Tool](https://www.abstractocean.com/spudger-trim-removal-tool/)
+
+### Supplies
+ - [Distilled Water](https://www.kroger.com/p/kroger-distilled-water/0001111042133)
  - [Super Suds Car Wash Soap](https://amzn.to/2Kt5HG)
  - [Optimum No Rinse (ONR) Wash & Shine](https://amzn.to/31X9kKm)
  - [Glass Cleaning Clay Bar](https://amzn.to/2XrXxUO)
- - [Chenille Microfiber Wash Mitt](https://amzn.to/2X2K4DL)
- - [Microfiber Cloths](https://amzn.to/2FngVYS)
- - [Waffle Weave Microfiber Drying Towel](https://amzn.to/2J1QOrm) (Windows)
- - [Woolly Mammoth Microfiber Drying Towel](https://amzn.to/31JsLWZ) (Body Paint)
+ - [Invisible Glass Cleaner](https://www.amazon.com/Stoner-Products-91164-Invisible-Cleaner/dp/B00Y4W9JNY/)
+ - [Ammo Plum Wheel Cleaner](https://www.ammonyc.com/shop/ammo-plum-whee-cleaner/)
+ - [Ammo Mud Tire Gel](https://www.ammonyc.com/shop/ammo-mud-tire-gel/)
