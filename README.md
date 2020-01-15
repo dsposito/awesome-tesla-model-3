@@ -2,6 +2,9 @@
 
 A helpful reference list for Model 3 owners.
 
+Interested in buying a Tesla? Use my referral code to earn free Supercharging miles:
+[https://ts.la/daniel14114](https://ts.la/daniel14114)
+
 ## General Information
  - [Official Owner's Manual](https://www.tesla.com/sites/default/files/model_3_owners_manual_north_america_en.pdf)
  - [Official Video Guides](https://www.youtube.com/playlist?list=PLEox0nUMFPF7ZaNZvUa8h65wEBSGtUgmw)
@@ -58,3 +61,5 @@ A helpful reference list for Model 3 owners.
  - [Invisible Glass Cleaner](https://www.amazon.com/Stoner-Products-91164-Invisible-Cleaner/dp/B00Y4W9JNY/)
  - [Ammo Plum Wheel Cleaner](https://www.ammonyc.com/shop/ammo-plum-whee-cleaner/)
  - [Ammo Mud Tire Gel](https://www.ammonyc.com/shop/ammo-mud-tire-gel/)
+
+ Earn free Supercharging miles when you order your Tesla [here](https://ts.la/daniel14114).
