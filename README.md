@@ -34,6 +34,7 @@ Interested in buying a Tesla? Use my referral code to earn free Supercharging mi
 - [SanDisk 128GB Flash Drive](https://amzn.to/2KtDIGx) (Sentry Mode Tested)
 - [Tire Valve Stem Caps](https://www.amazon.com/gp/product/B075GXJ2RG/)
 - [Hot Wheels Model 3](https://www.amazon.com/gp/product/B07QJ975DB/)
+- [TeslaWraps](https://teslawraps.design) - Free browser wrap designer for Tesla (core edit + PNG export, no account required; optional AI credits).
 
 ## Care & Maintenance
 ### Tools
